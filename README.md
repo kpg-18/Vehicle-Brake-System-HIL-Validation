@@ -14,9 +14,9 @@ The simulation is suitable for concept validation, model-based design demonstrat
 
 ## Project Documentation
 
-- [docs/title_page.md](docs/title_page.md) — formal title page
-- [docs/executive_summary.md](docs/executive_summary.md) — one-page summary for submission
-- [docs/architecture_diagram.md](docs/architecture_diagram.md) — MATLAB/Simulink-style block architecture
+- [docs/title_page.md](docs/title_page.md) : formal title page
+- [docs/executive_summary.md](docs/executive_summary.md) : one-page summary for submission
+- [docs/architecture_diagram.md](docs/architecture_diagram.md) : MATLAB/Simulink-style block architecture
 - [docs/portfolio_banner.md](docs/portfolio_banner.md) — polished banner for portfolio presentation
 
 ## Problem Statement
